@@ -1,0 +1,11 @@
+{
+  "name": "sensor-plug-example",
+  "version": "0.0.1",
+  "description": "my first sensor-plug app",
+  "dependencies": {
+    "express": "4.15.2",
+    "sensor-plug": "4.0.0",
+    "socket.io": "2.0.4",
+    "three": "0.92.0"
+  }
+}
